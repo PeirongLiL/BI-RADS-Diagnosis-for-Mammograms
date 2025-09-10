@@ -1,5 +1,5 @@
-# An-Explainable-Multi-Task-BI-RADS-Assisted-Diagnosis-Pipeline-for-Mammograms
-This is the code associated with the paper An-Explainable-Multi-Task-BI-RADS-Assisted-Diagnosis-Pipeline-for-Mammograms.
+# An explainable and comprehensive BI-RADS assisted diagnosis pipeline for mammograms
+This is the code associated with the paper An explainable and comprehensive BI-RADS assisted diagnosis pipeline for mammograms.https://doi.org/10.1016/j.ejmp.2025.104949.
 
 -labels  We complemented the labels on the publicly available dataset and divided them into the training and validation sets
 
